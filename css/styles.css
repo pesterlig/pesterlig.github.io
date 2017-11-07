@@ -1,0 +1,89 @@
+* {
+	border: .1vh dotted #000;
+}
+html {
+    background: url(me-black-glasses-pur.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+
+.container {
+	
+	/*background-image: url(me-black-glasses-pur.jpg);
+	background-repeat: no-repeat;*/
+	/*background-color: pink;*/
+	background-color: rgba(1,30,17,1);
+	opacity:0.87;
+	filter: opacity(87%);
+	background-position: center;
+	background-size:contain;
+
+	font-family: Raleway, sans-serif;
+	/*color: rgba(10,300,170,1);*/
+	color: limegreen;
+	font-size: 1rem;
+
+
+	/*text-shadow:  .2rem .2rem .2rem #000;*/
+}
+
+h1 {
+	font-family: Merriweather, sans-serif;
+	font-size:250%;
+}
+
+.container h2 {
+	font-family: Merriweather, sans-serif;
+}
+
+
+/*.picback {
+	background-image: url(me-black-glasses-pur.jpg);
+	background-repeat: no-repeat;
+	background-color:rgba(1,30,17,0.9);
+	/*opacity:0.3;
+	filter: opacity(30%);*/
+	/*background-position: center;
+	background-size:contain;
+	color: red;
+} 
+*/
+
+/*h1{
+	color:rgba(1,30,17,0.35);
+	text-align: center;
+
+}
+
+p { 
+	font-family: "times new roman";
+	font-size: 1rem;
+}
+
+p, h1, h2, ul {
+	color: red;
+	text-align: left;
+	margin-left: 40px;
+}
+
+#para2 {
+	text-align: left;
+	color:hotpink;
+}
+
+.greenOne {
+	text-align: right;
+	color: green;
+}
+
+.center {
+	color: yellow;
+}
+
+.large {
+	text-align: center;
+}
+
+.poetry {
+	text-align: right;
+	color:purple;
+}*/
